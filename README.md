@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Dynamic web development projects and building portfolio websites while exploring advertising and marketing strategies.<br><br>👯 I’m looking to collaborate on<br>Projects related to digital marketing, advertising campaigns, and dynamic web applications.<br><br>🤝 I’m looking for help with<br>Learning advanced marketing strategies, performance marketing, and gaining real world freelancing experience.<br><br>🌱 I’m currently learning<br>Modern web development technologies and the fundamentals of advertising, branding, and digital marketing.<br><br>💬 Ask me about<br>Dynamic websites, basic marketing concepts, advertising ideas, and getting started with freelancing.<br><br>⚡ Fun fact<br>I enjoy combining business strategy with technology to create creative digital solutions and continuously explore new ideas.
 
 
@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-Nadagiri&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Abhishek-Nadagiri)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-Nadagiri&limit=5&theme=dark&combine_all_yearly_contributions=true)

@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-Nadagiri)
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Nadagiri&bg_color=0d1117&color=ff8c00&line=ff8c00&point=ffa500&area=true&area_color=ff8c00)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Nadagiri&bg_color=0d1117&color=1f6feb&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-Nadagiri&limit=5&theme=dark)

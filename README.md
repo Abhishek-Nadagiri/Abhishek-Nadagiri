@@ -1,5 +1,28 @@
-# About Me:
-🔭 I’m currently working on<br>Dynamic web development projects and building portfolio websites while exploring advertising and marketing strategies.<br><br>👯 I’m looking to collaborate on<br>Projects related to digital marketing, advertising campaigns, and dynamic web applications.<br><br>🤝 I’m looking for help with<br>Learning advanced marketing strategies, performance marketing, and gaining real world freelancing experience.<br><br>🌱 I’m currently learning<br>Modern web development technologies and the fundamentals of advertising, branding, and digital marketing.<br><br>💬 Ask me about<br>Dynamic websites, basic marketing concepts, advertising ideas, and getting started with freelancing.<br><br>⚡ Fun fact<br>I enjoy combining business strategy with technology to create creative digital solutions and continuously explore new ideas.
+# Hello, I'm Abhishek
+
+Analytical problem solver with a growing expertise in Data Analytics and Business Intelligence. and Computer Science student with a strong interest in transforming raw data into meaningful insights that support informed decision-making. My passion lies at the intersection of data analytics, machine learning, and technology-driven problem solving.
+
+🔭 **Currently Working On**
+Building data-driven projects involving predictive analytics, data visualization, machine learning, and business intelligence while strengthening my analytical and problem-solving skills.
+
+👯 **Looking to Collaborate On**
+Data analytics, machine learning, business intelligence, data visualization, and impactful projects that leverage data to solve real-world challenges.
+
+🤝 **Seeking Guidance In**
+Advanced data analytics techniques, statistical modeling, data engineering workflows, and industry best practices for data-driven decision making.
+
+🌱 **Currently Learning**
+Python for Data Analysis, Machine Learning, SQL, Data Visualization, Business Analytics, and modern data science tools and frameworks.
+
+💬 **Ask Me About**
+Data Analytics, Python, SQL, Machine Learning fundamentals, Data Visualization, Dashboard Development, and project development.
+
+📊 **Areas of Interest**
+Data Analytics • Business Intelligence • Machine Learning • Predictive Modeling • Data Visualization • Decision Science
+
+⚡ **Fun Fact**
+I enjoy uncovering patterns hidden within data and turning complex datasets into actionable insights that drive meaningful business outcomes.
+
 
 
 ## 🌐 Socials:

@@ -24,7 +24,7 @@ Data Analytics • Business Intelligence • Machine Learning • Predictive Mod
 I enjoy uncovering patterns hidden within data and turning complex datasets into actionable insights that drive meaningful business outcomes.
 ## 🎯 Development Insights Dashboard
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishek-Nadagiri&theme=dark&hide_border=true&ring=F59E0B&fire=FBBF24&currStreakLabel=F59E0B&sideLabels=FBBF24" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-Nadagiri&theme=dark&hide_border=true" />
 </p>
 
 

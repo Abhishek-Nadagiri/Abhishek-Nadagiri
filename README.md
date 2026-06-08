@@ -2,25 +2,25 @@
 
 Analytical problem solver with a growing expertise in Data Analytics and Business Intelligence. and Computer Science student with a strong interest in transforming raw data into meaningful insights that support informed decision-making. My passion lies at the intersection of data analytics, machine learning, and technology-driven problem solving.
 
-🔭 **Currently Working On**
+**Currently Working On**
 Building data-driven projects involving predictive analytics, data visualization, machine learning, and business intelligence while strengthening my analytical and problem-solving skills.
 
-👯 **Looking to Collaborate On**
+**Looking to Collaborate On**
 Data analytics, machine learning, business intelligence, data visualization, and impactful projects that leverage data to solve real-world challenges.
 
-🤝 **Seeking Guidance In**
+**Seeking Guidance In**
 Advanced data analytics techniques, statistical modeling, data engineering workflows, and industry best practices for data-driven decision making.
 
-🌱 **Currently Learning**
+**Currently Learning**
 Python for Data Analysis, Machine Learning, SQL, Data Visualization, Business Analytics, and modern data science tools and frameworks.
 
-💬 **Ask Me About**
+**Ask Me About**
 Data Analytics, Python, SQL, Machine Learning fundamentals, Data Visualization, Dashboard Development, and project development.
 
-📊 **Areas of Interest**
+**Areas of Interest**
 Data Analytics • Business Intelligence • Machine Learning • Predictive Modeling • Data Visualization • Decision Science
 
-⚡ **Fun Fact**
+**Fun Fact**
 I enjoy uncovering patterns hidden within data and turning complex datasets into actionable insights that drive meaningful business outcomes.
 ## 🎯 Development Insights Dashboard
 <p align="center">

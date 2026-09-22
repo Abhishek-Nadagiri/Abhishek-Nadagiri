@@ -25,12 +25,14 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Nadagiri&theme=apprentice&animation=rise&name=Abhishek+Nadagiri" width="100%" alt="Profile Details"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Abhishek-Nadagiri&theme=vue&short_numbers=true" width="100%" alt="GitHub Streak"/>
+</a>
 
-<br/><br/>
+<br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Nadagiri&theme=apprentice&animation=rise&name=Abhishek+Nadagiri" width="79%" alt="Profile Details"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-Nadagiri&theme=solarized&animation=rise" width="49%" alt="GitHub Stats"/>
-<img src="https://www.readmecodegen.com/api/github-stats/svg?username=Abhishek-Nadagiri&theme=github_light&cardType=streak&showProfilePic=false" width="49%" alt="GitHub Streak"/>
 
 </div>
 

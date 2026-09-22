@@ -144,22 +144,16 @@ Alongside data work, I build web apps and explore how well-designed prompts can 
 
 <p align="left">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-Nadagiri&theme=monokai&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Nadagiri&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=E5E4E2&cache_seconds=86400" 
     height="180" 
     alt="Languages"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-Nadagiri&theme=monokai&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Abhishek-Nadagiri&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=E5E4E2&cache_seconds=86400" 
     height="180" 
     alt="Stats"
   />
 </p>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Nadagiri&theme=monokai&hide_border=true" 
-  width="100%"
-  alt="Contribution Graph"
-/>
 
 ## Featured Projects
 
@@ -260,6 +254,6 @@ Led campus-focused technology awareness and community initiatives.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:10B981,100:6366F1&height=120&section=footer" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:F59E0B&height=120&section=footer" alt="footer wave"/>
 
 </div>

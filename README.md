@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Nadagiri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Apps%20%7C%20Prompt%20Engineering%20%7C%20Content%20%26%20Data&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:10B981,100:F59E0B&height=220&section=header&text=Abhishek%20Nadagiri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Apps%20%7C%20Prompt%20Engineering%20%7C%20Content%20%26%20Data&descAlignY=58&descSize=18" alt="Abhishek Nadagiri — Web Apps, Prompt Engineering, Content & Data" />
+
+### Abhishek Nadagiri
+**Web Apps · Prompt Engineering · Content & Data**
 
 <a href="https://github.com/Abhishek-Nadagiri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=66b3ff&center=true&vCenter=true&width=650&lines=Building+web+apps+%26+digital+experiences;Prompt+Engineering+%7C+Content+Creation+%7C+Memes;Python+%7C+SQL+%7C+Power+BI+%7C+React;CS+Student+%7C+Builder+%26+Creator" alt="Typing SVG" />
@@ -148,9 +151,9 @@ Alongside data work, I build web apps and explore how well-designed prompts can 
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/38BDF8/Abhishek-Nadagiri" width="100%" alt="contribution heatmap"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Nadagiri&bg_color=000000&color=D4AF37&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true&custom_title=Contribution%20Flow" width="100%" alt="GitHub contribution activity graph"/>
 
-<sub>Blue-themed contribution heatmap over the past year.</sub>
+<sub>Live activity graph — commits over time, pulled directly from GitHub.</sub>
 
 </div>
 

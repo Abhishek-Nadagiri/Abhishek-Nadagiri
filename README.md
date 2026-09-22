@@ -1,9 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:10B981,100:F59E0B&height=220&section=header&text=Abhishek%20Nadagiri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Apps%20%7C%20Prompt%20Engineering%20%7C%20Content%20%26%20Data&descAlignY=58&descSize=18" alt="Abhishek Nadagiri — Web Apps, Prompt Engineering, Content & Data" />
-
 ### Abhishek Nadagiri
-**Web Apps · Prompt Engineering · Content & Data**
+**Web App Developer · Prompt Engineering · Content Creator**
 
 <a href="https://github.com/Abhishek-Nadagiri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=66b3ff&center=true&vCenter=true&width=650&lines=Building+web+apps+%26+digital+experiences;Prompt+Engineering+%7C+Content+Creation+%7C+Memes;Python+%7C+SQL+%7C+Power+BI+%7C+React;CS+Student+%7C+Builder+%26+Creator" alt="Typing SVG" />
@@ -134,30 +132,34 @@ Alongside data work, I build web apps and explore how well-designed prompts can 
 
 <br/>
 
-## GitHub Analytics
+## GitHub Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Nadagiri&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Nadagiri&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=Abhishek-Nadagiri&hide_border=true&background=000000&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C0C0C0&sideLabels=C0C0C0&dates=C0C0C0" alt="GitHub Streak"/>
-
-</div>
+<img 
+  src="https://streak-stats.demolab.com?user=Abhishek-Nadagiri&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E4E2&sideLabels=E5E4E2&dates=C0C0C0" 
+  width="100%"
+  alt="GitHub Streak"
+/>
 
 <br/>
 
-## Contribution Flow
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek-Nadagiri&theme=monokai&hide_border=true" 
+    height="180" 
+    alt="Languages"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-Nadagiri&theme=monokai&hide_border=true" 
+    height="180" 
+    alt="Stats"
+  />
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Nadagiri&bg_color=000000&color=D4AF37&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true&custom_title=Contribution%20Flow" width="100%" alt="GitHub contribution activity graph"/>
-
-<sub>Live activity graph — commits over time, pulled directly from GitHub.</sub>
-
-</div>
-
-<br/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Nadagiri&theme=monokai&hide_border=true" 
+  width="100%"
+  alt="Contribution Graph"
+/>
 
 ## Featured Projects
 

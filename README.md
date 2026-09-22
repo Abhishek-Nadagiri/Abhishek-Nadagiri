@@ -21,6 +21,21 @@
 
 <br/>
 
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Nadagiri&theme=apprentice&animation=rise&name=Abhishek+Nadagiri" width="100%" alt="Profile Details"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek-Nadagiri&theme=solarized&animation=rise" width="49%" alt="GitHub Stats"/>
+<img src="https://www.readmecodegen.com/api/github-stats/svg?username=Abhishek-Nadagiri&theme=github_light&cardType=streak&showProfilePic=false" width="49%" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
 ## Who I Am
 
 Analytical problem solver with growing expertise in **Data Analytics** and **Business Intelligence** — a Computer Science student interested in building web applications, crafting effective prompts for AI tools, and turning ideas into content people actually engage with.
@@ -131,29 +146,6 @@ This is the pipeline I follow across data projects — starting from unprocessed
 Alongside data work, I build web apps and explore how well-designed prompts can shape AI tools into useful content and meme-creation workflows — from first draft to a polished, shareable result.
 
 <br/>
-
-## GitHub Activity
-
-<img 
-  src="https://streak-stats.demolab.com?user=Abhishek-Nadagiri&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E4E2&sideLabels=E5E4E2&dates=C0C0C0" 
-  width="100%"
-  alt="GitHub Streak"
-/>
-
-<br/>
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Nadagiri&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=E5E4E2&cache_seconds=86400" 
-    height="180" 
-    alt="Languages"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abhishek-Nadagiri&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=E5E4E2&cache_seconds=86400" 
-    height="180" 
-    alt="Stats"
-  />
-</p>
 
 ## Featured Projects
 
